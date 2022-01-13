@@ -1,4 +1,4 @@
 dlr==1.0
 numpy==1.17.3
-Pillow==6.2.0
+Pillow==9.0.0
 pkg-resources==0.0.0
